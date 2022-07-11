@@ -1,0 +1,24 @@
+{
+  "name": "kohonen",
+  "version": "1.0.0",
+  "description": "kohonen network",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sefirek/kohonen.git"
+  },
+  "keywords": [
+    "kohonen",
+    "neural network"
+  ],
+  "author": "Rafał Kogut sefir@o2.pl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sefirek/kohonen/issues"
+  },
+  "homepage": "https://github.com/sefirek/kohonen#readme",
+  "dependencies": {
+    "array-shuffle": "^3.0.0"
+  }
+}
